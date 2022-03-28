@@ -5,7 +5,7 @@ import numpy as np
 
 current = 2    #current value of trajectory (initial value)
 setpoint = -2  #final setpoint value of trajectory (final value)
-move_time = 0.5 #amoun of time trajectory should take to reach from current value to final value
+move_time = 0.5 #amount of time trajectory should take to reach from current value to final value
 dt = 0.01 #step size
 
 
